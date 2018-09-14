@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/ProjectOnMonday.unity
+  isLoaded: 1
+  isActive: 1
